@@ -1,10 +1,11 @@
 exercise from CSD UOC
 # create.py
 create.py creates a magic square that should have the output of:
-3
-4 9 2
-3 5 7
-8 1 6
+
+
+
+![image](https://user-images.githubusercontent.com/114307879/205140830-9b26839a-823a-4515-9379-2ef18dc3ce27.png)
+
 
 the algorith works only for odd number for the value N --> NxN magic square
 
@@ -13,37 +14,26 @@ check.py asks the user to fill an array and then proceed to check every row , co
 magic square or not
 
 for input:
-3
-2 7 6
-9 5 1
-4 3 8
+
+
+![image](https://user-images.githubusercontent.com/114307879/205142944-485df4d5-6d39-49e2-ba35-1cc9ec1383ff.png)
+
 
 The output should be :
-ROW 1 YES
-ROW 2 YES
-ROW 3 YES
-COLUMN 1 YES
-COLUMN 2 YES
-COLUMN 3 YES
-DIAG1 YES
-DIAG2 YES
-UNIQUE YES
-MAGIC YES
+
+
+![image](https://user-images.githubusercontent.com/114307879/205143022-3203f329-7178-4a7d-bf3e-37d45b366a0a.png)
+
 
 and for input:
-3
-2 7 1
-9 5 1
-4 3 8
+
+
+![image](https://user-images.githubusercontent.com/114307879/205143166-3d9ad3f7-4e09-403e-a2c3-80bd0d5026d7.png)
+
+
 
 The output should be :
-ROW 1 NO
-ROW 2 YES
-ROW 3 YES
-COLUMN 1 YES
-COLUMN 2 YES
-COLUMN 3 NO
-DIAG1 YES
-DIAG2 NO
-UNIQUE NO
-MAGIC NO
+
+
+![image](https://user-images.githubusercontent.com/114307879/205143396-553d3e92-57d4-4aa4-bd16-20f577ead96f.png)
+
