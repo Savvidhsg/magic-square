@@ -1,6 +1,6 @@
 exercise from CSD UOC
 ## MAGIC SQUARE
-In recreational mathematics, a square array of numbers, usually positive integers, is called a magic square if the sums of the numbers in each row, each column, and both main diagonals are the same.The order of the magic square is the number of integers along one side (n), and the constant sum is called the magic constant. If the array includes just the positive integers {\displaystyle 1,2,...,n^{2}}{\displaystyle 1,2,...,n^{2}}, the magic square is said to be normal. Some authors take magic square to mean normal magic square.
+In recreational mathematics, a square array of numbers, usually positive integers, is called a magic square if the sums of the numbers in each row, each column, and both main diagonals are the same.The order of the magic square is the number of integers along one side (n), and the constant sum is called the magic constant. 
 
 Magic squares that include repeated entries do not fall under this definition and are referred to as trivial. Some well-known examples, including the Sagrada Família magic square and the Parker square are trivial in this sense. When all the rows and columns but not both diagonals sum to the magic constant we have semimagic squares (sometimes called orthomagic squares).
 # create.py
@@ -14,7 +14,7 @@ create.py creates a magic square that should have the output of:
 the algorith works only for odd number for the value N --> NxN magic square
 
 # check.py
-check.py asks the user to fill an array and then proceed to check every row , column , the two diagonals, if it has only unique numbers so it can say if it is a
+check.py asks the user to fill an array and then proceed to check every row , column , the two diagonals, if it has  unique numbers so it can say if it is a
 magic square or not
 
 for input:
