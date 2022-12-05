@@ -9,12 +9,11 @@ for i in range(N):
 
 magic = 0
 
-
+i = 0
 for x in array:
     sum = 0
-    i = 0
+    i += 1
     for y in x:
-        i += 1
         sum += y
     if sum == N*(N**2 + 1)/2:
         print(f"ROW {i} YES")
